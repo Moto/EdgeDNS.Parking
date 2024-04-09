@@ -1,2 +1,2 @@
 # EdgeDNS.Parking
-EdgeDNS Parking
+EdgeDNS Parking Page
