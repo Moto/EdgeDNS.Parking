@@ -45,7 +45,7 @@ input.keypress(function(e) {
 		} else if (inputVal.startsWith("exit") === true) {
 			Output('<span class="blue">Goodbye! Comeback soon.</span>');
 			setTimeout(function() {
-				window.open('https://codepen.io/MarioDesigns');
+				window.open('http://edgedns.xyz');
 			}, 1000);
 		} else {
 			Output('<span>command not found</span></br>');
